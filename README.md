@@ -10,6 +10,8 @@ Passionate developer with experience in web and mobile applications. I am curren
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/-NetBeans-003B57?style=flat&logo=apache-netbeans&logoColor=white)
 ![XML](https://img.shields.io/badge/-XML-0060F0?style=flat&logo=xml&logoColor=white)
