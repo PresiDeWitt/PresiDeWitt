@@ -26,7 +26,7 @@ Passionate developer with experience in web and mobile applications. I am curren
 
 ## 📊 GitHub Stats
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tunombre&show_icons=true&theme=radical)
 
 ## 🔥 Most Used Languages
 
