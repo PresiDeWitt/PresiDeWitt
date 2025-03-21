@@ -24,6 +24,11 @@ Passionate developer with experience in web and mobile applications. I am curren
 - **DAW and DAM Student** - Focused on web and multiplatform application development
 - **Cryptocurrency and Stock Market Investor** - Focused on securing my financial future through smart investments
 
+## 🎯 Personal Traits & Interests
+- 🔥 **Ambitious** – Always striving for growth and improvement
+- 🚀 **Problem Solver** – Love tackling complex challenges and optimizing solutions
+
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PresiDeWitt&show_icons=true&theme=radical)
