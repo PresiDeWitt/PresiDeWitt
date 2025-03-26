@@ -19,6 +19,10 @@ Passionate developer with experience in web and mobile applications. I am curren
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)
 
 
+![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+
 ## 💼 Experience
 
 - **DAW and DAM Student** - Focused on web and multiplatform application development.
