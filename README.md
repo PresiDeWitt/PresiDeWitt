@@ -21,12 +21,17 @@ Passionate developer with experience in web and mobile applications. I am curren
 
 ## 💼 Experience
 
-- **DAW and DAM Student** - Focused on web and multiplatform application development
-- **Cryptocurrency and Stock Market Investor** - Focused on securing my financial future through smart investments
+- **DAW and DAM Student** - Focused on web and multiplatform application development.
+- **Cryptocurrency and Stock Market Investor** - Focused on securing my financial future through smart investments.
 
 ## 🎯 Personal Traits & Interests
-- 🔥 **Ambitious** – Always striving for growth and improvement
-- 🚀 **Problem Solver** – Love tackling complex challenges and optimizing solutions
+- 🔥 **Disciplined** – I strive to improve in the gym, studies, and investments.
+- 🧠 **Thoughtful** – I analyze experiences and learn from them.
+- 🚀 **Ambitious** – I seek growth in different areas of my life, from physical to professional.
+- 🛑 **Firm in my decisions** – If someone crosses my boundaries, I don’t give second chances.
+- 💪 **Confident** – I trust my progress and always find ways to improve.
+- 🔍 **Curious** – I'm interested in learning new skills, such as programming and investments.
+- 🎯 **Practical** – I prefer direct and straightforward answers.
 
 
 ## 📊 GitHub Stats
