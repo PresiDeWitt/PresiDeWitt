@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Alejandro
 
-Passionate developer with experience in web and mobile applications. I am currently pursuing a higher vocational degree in DAW (Web Application Development) and DAM (Multiplatform Application Development). I love solving complex problems and creating effective solutions to improve user experience. I am also dedicated to investing in cryptocurrencies and the stock market, always looking for opportunities to improve my financial future.
+Passionate developer web and mobile applications. I am currently pursuing a higher vocational degree in DAW (Web Application Development) and DAM (Multiplatform Application Development). I love solving complex problems and creating effective solutions to improve user experience. I am also dedicated to investing in cryptocurrencies and the stock market, always looking for opportunities to improve my financial future.
 
 ## 🚀 Technologies and Tools
 
