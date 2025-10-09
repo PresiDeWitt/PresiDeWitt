@@ -8,24 +8,29 @@
 
 ## 🚀 Technologies & Tools
 
-[![Tech Stack](https://skillicons.dev/icons?i=java,js,ts,react,spring,html,css,tailwind,git,github,mysql,mongodb,docker,postman,vscode,intellij,windows,notion,discord,nginx,figma,c,cpp,arduino,nodejs)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=java,js,ts,c,react,spring,tailwind,nodejs,html,css,mysql,mongodb,docker,postman,nginx,vscode,idea,phpstorm,pycharm,clion,cmake,raspberrypi,ai,arduino,windows,git,github,notion,discord,linkedin,figma,ai)](https://skillicons.dev)
 
 ---
 
 ## 🛡️ Cybersecurity & Ethical Hacking Tools
 
-[![Cyber Stack](https://skillicons.dev/icons?i=python,linux,bash,powershell,kali,github)](https://skillicons.dev)
+[![Cyber Stack](https://skillicons.dev/icons?i=python,bash,powershell,linux,kali)](https://skillicons.dev)
 
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat&logo=burp-suite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-004170?style=flat&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-236B8E?style=flat&logo=metasploit&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/-OWASP%20ZAP-000000?style=flat&logo=owasp&logoColor=white)
-![Nessus](https://img.shields.io/badge/-Nessus-009639?style=flat&logo=tenable&logoColor=white)
-![Snort](https://img.shields.io/badge/-Snort-FF0000?style=flat&logo=snort&logoColor=white)
-![Shodan](https://img.shields.io/badge/-Shodan-FF0000?style=flat&logo=shodan&logoColor=white)
-![Hydra](https://img.shields.io/badge/-Hydra-444444?style=flat&logo=protonvpn&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/-Aircrack--ng-006400?style=flat&logo=wifi&logoColor=white)
+
+
+![Nmap](https://img.shields.io/badge/Nmap-%235A5A5A?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-%235A5A5A?style=for-the-badge&logo=nixos&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego-%232E2E2E?style=for-the-badge&logo=matrix&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%2300B4D8?style=for-the-badge&logo=wireshark&logoColor=white)
+![Ettercap](https://img.shields.io/badge/Ettercap-%2300C853?style=for-the-badge&logo=elm&logoColor=white)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-%2300C853?style=for-the-badge&logo=wifi&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF7A00?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%23007ACC?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt%20Strike-%2300B4D8?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-%232E2E2E?style=for-the-badge&logo=kalilinux&logoColor=%2300FF88)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-%23FF0000?style=for-the-badge&logo=hashnode&logoColor=white)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-%23007ACC?style=for-the-badge&logo=gitlab&logoColor=white)
+
 
 💡 **Main Areas of Work**
 - 🖥️ **Frontend:** React, TypeScript, TailwindCSS, HTML, CSS  
