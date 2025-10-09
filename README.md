@@ -8,7 +8,7 @@
 
 ## 🚀 Technologies & Tools
 
-[![Tech Stack](https://skillicons.dev/icons?i=java,js,ts,c,react,spring,tailwind,nodejs,html,css,mysql,mongodb,docker,postman,nginx,vscode,idea,phpstorm,pycharm,clion,webstorm,cmake,raspberrypi,arduino,windows,apple,git,github,notion,discord,linkedin,figma,ai&perline=16)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=java,js,ts,c,react,spring,tailwind,nodejs,html,css,mysql,mongodb,docker,postman,nginx,vscode,phpstorm,pycharm,clion,webstorm,cmake,raspberrypi,arduino,windows,apple,git,github,notion,discord,linkedin,figma,ai&perline=16)](https://skillicons.dev)
 
 ---
 
