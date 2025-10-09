@@ -89,12 +89,4 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 💳 Banking Management System
-Console-based application built in **Java**, simulating a complete banking environment.  
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
-
----
-
 ⭐️ *Profile crafted by Alejandro — future full-stack developer & ethical hacker in progress.*
