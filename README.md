@@ -8,13 +8,13 @@
 
 ## 🚀 Technologies & Tools
 
-[![Tech Stack](https://skillicons.dev/icons?i=java,python,js,ts,react,spring,html,css,tailwind,git,github,mysql,mongodb,linux,docker,postman,vscode,intellij,windows,notion,discord,bash,nginx,figma,c,cpp,arduino,nodejs)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=java,js,ts,react,spring,html,css,tailwind,git,github,mysql,mongodb,docker,postman,vscode,intellij,windows,notion,discord,nginx,figma,c,cpp,arduino,nodejs)](https://skillicons.dev)
 
 ---
 
 ## 🛡️ Cybersecurity & Ethical Hacking Tools
 
-[![Cyber Stack](https://skillicons.dev/icons?i=python,linux,bash,powershell,kalilinux,windows,github,git,docker)](https://skillicons.dev)
+[![Cyber Stack](https://skillicons.dev/icons?i=python,linux,bash,powershell,kali,github)](https://skillicons.dev)
 
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
