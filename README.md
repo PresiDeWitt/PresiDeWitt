@@ -34,7 +34,7 @@
 
 💡 **Main Areas of Work**
 - 🖥️ **Frontend:** React, TypeScript, TailwindCSS, HTML, CSS  
-- ⚙️ **Backend:** Java (Spring Boot), Node.js, Python  
+- ⚙️ **Backend:** Java (Spring Boot), Php, Node.js, Python  
 - 🗄️ **Databases:** MySQL, MongoDB  
 - 🧰 **Tools & DevOps:** Git, Docker, Nginx, Postman, VS Code, IntelliJ IDEA  
 - 🪟 **Operating Systems:** Linux (Ubuntu, Kali), Windows  
@@ -53,7 +53,7 @@
 
 ## 🧠 Development & Security Focus
 
-- **Languages:** Java, Python, JavaScript, TypeScript, HTML, CSS, Bash  
+- **Languages:** Java, Python, Php, JavaScript, TypeScript, HTML, CSS, Bash  
 - **Frameworks:** Spring Boot, React, TailwindCSS  
 - **Databases:** MySQL, MongoDB  
 - **Tools:** Git, Docker, Postman, IntelliJ IDEA, VS Code  
