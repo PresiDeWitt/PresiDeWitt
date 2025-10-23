@@ -14,7 +14,7 @@
 
 ## 🛡️ Cybersecurity & Ethical Hacking Tools
 
-[![Cyber Stack](https://skillicons.dev/icons?i=python,bash,powershell,linux,kali)](https://skillicons.dev)
+[![Cyber Stack](https://skillicons.dev/icons?i=python,bash,powershell,linux,kali,arch)](https://skillicons.dev)
 
 
 
