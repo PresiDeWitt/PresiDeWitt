@@ -57,8 +57,8 @@
 - **Frameworks:** Spring Boot, React, TailwindCSS  
 - **Databases:** MySQL, MongoDB  
 - **Tools:** Git, Docker, Postman, IntelliJ IDEA, VS Code  
-- **Cybersecurity Tools:** Nmap, Burp Suite, Wireshark, OWASP ZAP, Metasploit, Nessus  
-- **OS Environments:** Linux (Kali, Ubuntu), Windows  
+- **Cybersecurity Tools:** Nmap, Burp Suite, Wireshark, OWASP ZAP, Metasploit, Nessus, Sqlmap 
+- **OS Environments:** Linux (Kali, Ubuntu), Windows, Arch Linux
 - **Other Skills:** Network analysis, vulnerability scanning, secure coding, ethical hacking  
 
 ---
