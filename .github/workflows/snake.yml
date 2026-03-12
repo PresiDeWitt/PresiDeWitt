@@ -33,13 +33,14 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          # The waka-readme action may have pushed changes. We need to pull them.
-          git pull origin main
           git add dist/*.svg
-          # Commit and push only if the snake files have changed
           if ! git diff --staged --quiet; then
             git commit -m "Generate new snake animation"
-            git push
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && break
+              echo "Push failed, retrying ($i/3)..."
+              sleep 5
+            done
           else
             echo "No changes in snake animation to commit."
           fi
