@@ -28,6 +28,7 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          REPOSITORY: ${{ github.repository }}
 
       - name: Commit and Push Snake Files
         run: |
