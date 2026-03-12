@@ -99,6 +99,10 @@
 </div>
 
 <div align="center">
+  <img alt="github-snake" src="https://github.com/PresiDeWitt/PresiDeWitt/blob/main/dist/ocean.gif" />
+</div>
+
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PresiDeWitt&theme=tokyonight&hide_border=true&background=0D1117&stroke=00b4d8&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00b4d8&dates=888888)](https://git.io/streak-stats)
 
