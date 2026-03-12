@@ -99,7 +99,7 @@
 </div>
 
 <div align="center">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PresiDeWitt/PresiDeWitt/main/dist/ocean.gif" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PresiDeWitt/PresiDeWitt/main/dist/github-snake-custom.svg" />
 </div>
 
 <div align="center">

@@ -20,7 +20,7 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=00d9ff&color_dots=caf0f8,00b4d8,001d3d,0d1117&color_background=0d1117
+            dist/github-snake-custom.svg?color_snake=00d9ff&color_dots=#161b22,#0d2818,#0f6d31,#00c647,#00d9ff&color_background=0d1117
 
       - name: Push to GitHub
         run: |
