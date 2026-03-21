@@ -122,6 +122,15 @@
 ---
 
 <!--START_SECTION:waka-->
+
+```txt
+Python          6 hrs 24 mins         ████████▓░░░░░░░░░░░░░░░░   34.45 %
+PHP             5 hrs 22 mins         ███████▒░░░░░░░░░░░░░░░░░   28.87 %
+Bash            1 hr 15 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
+Markdown        1 hr 1 min            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Text            57 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats
