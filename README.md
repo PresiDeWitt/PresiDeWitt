@@ -75,7 +75,7 @@
 | --- | --- |
 | 🔍 **Reconnaissance** | Nmap · Maltego · Shodan |
 | 🕸️ **Web App Testing** | Burp Suite · Nikto · OWASP ZAP · Sqlmap |
-| 🧰 **Exploitation** | Metasploit · Cobalt Strike · Hydra · John the Ripper |
+| 🧰 **Exploitation** | Metasploit · Hydra · John the Ripper |
 | 📡 **Network Analysis** | Wireshark · Ettercap · Aircrack-ng |
 | 🔒 **Vulnerability Scanning** | Nessus · OpenVAS |
 
@@ -88,16 +88,40 @@
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://stocksync.es">
+        <img src="https://img.shields.io/badge/Stock%20Sync%20Pro-Live-00d9ff?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d1117" alt="Stock Sync Pro"/>
+      </a>
+      <br/><br/>
+      <strong>Stock Sync Pro</strong><br/>
+      <sub>WooCommerce SaaS — automatic stock & price sync from any supplier source (CSV, API, scraping). PHP plugin + Next.js landing + Python scraping engine.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
+      <br/><br/>
+      <a href="https://stocksync.es">🌐 stocksync.es</a>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/More%20projects-Coming%20soon-444?style=for-the-badge&labelColor=0d1117" alt="More projects"/>
+      <br/><br/>
+      <sub>Always building. Check back soon.</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 <!--START_SECTION:waka-->
-
-```txt
-Python          6 hrs 24 mins         ████████▓░░░░░░░░░░░░░░░░   34.45 %
-PHP             5 hrs 22 mins         ███████▒░░░░░░░░░░░░░░░░░   28.87 %
-Bash            1 hr 15 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-Markdown        1 hr 1 min            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-Text            57 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-```
-
 <!--END_SECTION:waka-->
 
 ## 📊 GitHub Stats
@@ -135,10 +159,24 @@ Text            57 mins               █▒░░░░░░░░░░░░
 
 ---
 
+## 📬 Contact
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-PresiDeWitt-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/PresiDeWitt)
+&nbsp;
+[![Website](https://img.shields.io/badge/Website-stocksync.es-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://stocksync.es)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-hola@wevica.com-caf0f8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:hola@wevica.com)
+
+</div>
+
+---
+
 <div align="center">
 
 <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,60:001d3d,100:0d1117&height=130&section=footer" width="100%"/>
 
-*Crafted with precision by **Alejandro** — Full-Stack Developer & Ethical Hacker in progress.*
+*Crafted with precision by **Alejandro** — Full-Stack Developer & Ethical Hacker.*
 
 </div>
