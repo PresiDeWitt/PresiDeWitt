@@ -51,7 +51,7 @@
 
 ### 🎨 Design & Productivity
 
-[![Design & Productivity](https://skillicons.dev/icons?i=figma,notion,postman,vscode,raspberrypi,arduino)](https://skillicons.dev)
+[![Design & Productivity](https://skillicons.dev/icons?i=figma,notion,obsidian,postman,vscode,raspberrypi,arduino)](https://skillicons.dev)
 
 ---
 
