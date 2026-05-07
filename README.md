@@ -137,9 +137,9 @@ Markdown                   29 mins               ▓░░░░░░░░░�
 
 <div align="center">
 
-<img alt="GitHub Stats" height="175em" src="https://github-readme-stats-presidewitts-projects.vercel.app/api?username=PresiDeWitt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00b4d8&text_color=caf0f8"/>
+<img alt="GitHub Stats" height="175em" src="https://github-readme-stats-presidewitts-projects.vercel.app/api?username=PresiDeWitt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00b4d8&text_color=caf0f8&cache_seconds=21600"/>
 &nbsp;
-<img alt="Top Languages" height="175em" src="https://github-readme-stats-presidewitts-projects.vercel.app/api/top-langs/?username=PresiDeWitt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=caf0f8"/>
+<img alt="Top Languages" height="175em" src="https://github-readme-stats-presidewitts-projects.vercel.app/api/top-langs/?username=PresiDeWitt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=caf0f8&cache_seconds=21600"/>
 
 </div>
 
