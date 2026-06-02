@@ -123,13 +123,7 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-Python                             6 hrs 43 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.47 %
-Markdown                           4 hrs 40 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
-Other                              4 hrs 15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
-PHP                                3 hrs 7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
-Text                               2 hrs 57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
-```
+
 
 <!--END_SECTION:waka-->
 
