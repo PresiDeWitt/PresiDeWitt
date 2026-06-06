@@ -43,7 +43,7 @@
 
 ### ⚙️ Backend
 
-[![Backend](https://skillicons.dev/icons?i=java,spring,php,nodejs,py,django)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=java,spring,php,nodejs,py,django,c,cpp)](https://skillicons.dev)
 
 ### 🗄️ Databases & DevOps
 
