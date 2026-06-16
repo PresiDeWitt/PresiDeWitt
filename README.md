@@ -121,6 +121,8 @@
 
 ---
 
+## ⌨️ Actividad de Código — Esta Semana
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -176,7 +178,7 @@ Text         32 mins               ███░░░░░░░░░░░░
 &nbsp;
 [![Website](https://img.shields.io/badge/Website-stocksync.es-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://stocksync.es)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-hola@wevica.com-caf0f8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:hola@wevica.com)
+[![Email](https://img.shields.io/badge/Email-alexchaconortega@gmail.com-caf0f8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:alexchaconortega@gmail.com)
 
 </div>
 
