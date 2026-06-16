@@ -110,9 +110,14 @@
       <a href="https://stocksync.es">🌐 stocksync.es</a>
     </td>
     <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/More%20projects-Coming%20soon-444?style=for-the-badge&labelColor=0d1117" alt="More projects"/>
+      <img src="https://img.shields.io/badge/Next%20Project-In%20Progress-ff6b6b?style=for-the-badge&labelColor=0d1117" alt="In Progress"/>
       <br/><br/>
-      <sub>Always building. Check back soon.</sub>
+      <strong>Something is brewing...</strong><br/>
+      <sub>New project in active development. Details dropping soon — follow to stay updated.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Status-Building-00d9ff?style=flat-square&labelColor=0d1117"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/ETA-2025-caf0f8?style=flat-square&labelColor=0d1117"/>
     </td>
   </tr>
 </table>
@@ -121,7 +126,7 @@
 
 ---
 
-## ⌨️ Actividad de Código — Esta Semana
+## ⌨️ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
 
@@ -135,7 +140,15 @@ Text         32 mins               ███░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+> ⏱️ Tracked automatically via [WakaTime](https://wakatime.com) — updates every 24 h.
+
 ## 📊 GitHub Stats
+
+<div align="center">
+
+<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=PresiDeWitt&theme=tokyonight&no-frame=true&margin-w=6&column=7"/>
+
+</div>
 
 <div align="center">
 
@@ -152,6 +165,12 @@ Text         32 mins               ███░░░░░░░░░░░░
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PresiDeWitt&theme=tokyonight&hide_border=true&background=0D1117&stroke=00b4d8&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00b4d8&dates=888888)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=PresiDeWitt&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00b4d8&point=caf0f8&area=true&area_color=001d3d"/>
 
 </div>
 
@@ -175,6 +194,8 @@ Text         32 mins               ███░░░░░░░░░░░░
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-PresiDeWitt-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/PresiDeWitt)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Chac%C3%B3n-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/alejandro-chac%C3%B3n-ortega-52750931b/)
 &nbsp;
 [![Website](https://img.shields.io/badge/Website-stocksync.es-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://stocksync.es)
 &nbsp;
