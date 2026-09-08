@@ -106,8 +106,9 @@ Activity recorded by [WakaTime](https://wakatime.com). [View scheduled updates](
 
 <details>
 <summary><strong>GitHub contribution streak</strong></summary>
-
-![GitHub contribution streak for PresiDeWitt](https://streak-stats.demolab.com?user=PresiDeWitt&theme=tokyonight&hide_border=true&background=0D1117&stroke=00b4d8&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00b4d8&dates=888888)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PresiDeWitt&theme=tokyonight" />
+</div>
 
 [View my GitHub activity](https://github.com/PresiDeWitt)
 
