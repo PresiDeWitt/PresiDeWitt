@@ -1,132 +1,92 @@
 <!-- markdownlint-disable MD033 MD041 -->
+
 <div align="center">
 
-<img alt="Alejandro — Full-Stack Developer | Cybersecurity | Investor" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:001d3d,100:00b4d8&height=200&section=header&text=Alejandro&fontSize=55&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20%7C%20Investor&descAlignY=58&descColor=caf0f8&descSize=17" width="100%"/>
+<h1>Alejandro</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=640&lines=Building+scalable+%26+efficient+solutions+%F0%9F%9A%80;Ethical+hacking+%26+cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Investing+in+crypto+%26+stock+markets+%F0%9F%93%88;Always+learning%2C+always+growing+%F0%9F%94%A5)](https://git.io/typing-svg)
+<p><strong>Full-Stack Developer · Cybersecurity</strong></p>
 
-<br>
+<p>Building web applications with a focus on maintainability, automation, and security.</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PresiDeWitt&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/PresiDeWitt?style=for-the-badge&color=00b4d8&labelColor=0d1117&label=FOLLOWERS&logo=github)](https://github.com/PresiDeWitt)
+<p>
+  <a href="https://github.com/PresiDeWitt"><img alt="GitHub: PresiDeWitt" src="https://img.shields.io/badge/GitHub-PresiDeWitt-00b4d8?style=flat-square&amp;logo=github&amp;logoColor=white&amp;labelColor=0d1117"></a>
+  <a href="https://www.linkedin.com/in/alejandro-chac%C3%B3n-ortega-52750931b/"><img alt="LinkedIn: Alejandro Chacón Ortega" src="https://img.shields.io/badge/LinkedIn-Alejandro_Chac%C3%B3n-0077B5?style=flat-square&amp;labelColor=0d1117"></a>
+  <a href="mailto:alexchaconortega@gmail.com"><img alt="Email Alejandro" src="https://img.shields.io/badge/Email-Contact_me-00b4d8?style=flat-square&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0d1117"></a>
+</p>
 
 </div>
 
 ---
 
-<div align="center">
+## About me
 
-## `> whoami`
+I'm Alejandro, also known as **PresiDeWitt**. I build across the frontend and backend, with an interest in how applications work and how to make them more secure.
 
-</div>
+- **Development:** web applications, scalable architectures, and automation.
+- **Security:** web application testing, vulnerability assessment, and network analysis.
+- **Education:** studying Web Application Development (**DAW**) and Multiplatform Application Development (**DAM**).
 
-```json
-{
-  "alias"      : "PresiDeWitt",
-  "name"       : "Alejandro",
-  "role"       : ["Full-Stack Developer", "Ethical Hacker", "Crypto & Stock Investor"],
-  "education"  : ["DAW — Web Application Development", "DAM — Multiplatform Application Development"],
-  "focus"      : ["Scalable architectures", "Web security & ethical hacking", "Financial growth"],
-  "traits"     : ["Disciplined", "Analytical", "Ambitious", "Curious", "Determined"],
-  "status"     : "🔥 Always building. Always improving."
-}
-```
+## Tech stack
 
----
+### Frontend
 
-## ⚡ Tech Stack
+![React, TypeScript, JavaScript, Tailwind CSS, HTML, and CSS](https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css&perline=6)
 
-### 🖥️ Frontend
+React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS
 
-[![Frontend](https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css)](https://skillicons.dev)
+### Backend
 
-### ⚙️ Backend
+![Java, Spring, PHP, Node.js, Python, and Django](https://skillicons.dev/icons?i=java,spring,php,nodejs,py,django&perline=6)
 
-[![Backend](https://skillicons.dev/icons?i=java,spring,php,nodejs,py,django,c,cpp)](https://skillicons.dev)
+Java · Spring · PHP · Node.js · Python · Django
 
-### 🗄️ Databases & DevOps
+### Databases & development tools
 
-[![Databases & DevOps](https://skillicons.dev/icons?i=mysql,mongodb,docker,git,github,gitlab)](https://skillicons.dev)
+![MySQL, MongoDB, Docker, Git, Linux, and Postman](https://skillicons.dev/icons?i=mysql,mongodb,docker,git,linux,postman&perline=6)
 
-### 🎨 Design & Productivity
+MySQL · MongoDB · Docker · Git · Linux · Postman
 
-[![Design & Productivity](https://skillicons.dev/icons?i=figma,notion,obsidian,postman,vscode,raspberrypi,arduino)](https://skillicons.dev)
+<details>
+<summary><strong>Additional languages & tools</strong></summary>
 
----
+- **Languages & scripting:** C, C++, Bash
+- **Platforms & environments:** GitHub, GitLab, Kali Linux, Arch Linux
+- **Design & productivity:** Figma, VS Code, Notion, Obsidian
+- **Hardware & experimentation:** Raspberry Pi, Arduino
 
-## 🛡️ Cybersecurity & Ethical Hacking
+</details>
 
-<div align="center">
+## Cybersecurity
 
-> *"Know your enemy. Know yourself. Find the vulnerabilities before they do."*
+My security interests complement my development work: understanding vulnerabilities helps me think more carefully about the applications I build.
 
-</div>
+- Web application security and the OWASP Top 10
+- Vulnerability assessment and penetration testing
+- Network traffic analysis and ethical hacking
 
-<br>
+<details>
+<summary><strong>Security toolbox</strong></summary>
 
-### Environments & Languages
-
-[![Cyber Stack](https://skillicons.dev/icons?i=python,bash,linux,kali,arch)](https://skillicons.dev)
-
-### Tools & Frameworks
-
-| Category | Tools |
+| Area | Tools |
 | --- | --- |
-| 🔍 **Reconnaissance** | Nmap · Maltego · Shodan |
-| 🕸️ **Web App Testing** | Burp Suite · Nikto · OWASP ZAP · Sqlmap |
-| 🧰 **Exploitation** | Metasploit · Hydra · John the Ripper |
-| 📡 **Network Analysis** | Wireshark · Ettercap · Aircrack-ng |
-| 🔒 **Vulnerability Scanning** | Nessus · OpenVAS |
+| Reconnaissance | Nmap, Maltego, Shodan |
+| Web application testing | Burp Suite, OWASP ZAP, Nikto, sqlmap |
+| Exploitation & password auditing | Metasploit, Hydra, John the Ripper |
+| Network analysis & testing | Wireshark, Ettercap, Aircrack-ng |
+| Vulnerability scanning | Nessus, OpenVAS |
 
-### Focus Areas
+</details>
 
-- OWASP Top 10 web application security testing
-- Network traffic analysis & packet interception
-- Red team tactics & exploitation frameworks
-- Vulnerability assessment & penetration testing
+## Coding activity
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg">
+  <img alt="Snake animation tracing my GitHub contributions" src="./dist/github-snake.svg" width="100%">
+</picture>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://stocksync.es">
-        <img src="https://img.shields.io/badge/Stock%20Sync%20Pro-Live-00d9ff?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d1117" alt="Stock Sync Pro"/>
-      </a>
-      <br/><br/>
-      <strong>Stock Sync Pro</strong><br/>
-      <sub>WooCommerce SaaS — automatic stock & price sync from any supplier source (CSV, API, scraping). PHP plugin + Next.js landing + Python scraping engine.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white"/>
-      <br/><br/>
-      <a href="https://stocksync.es">🌐 stocksync.es</a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.shields.io/badge/Next%20Project-In%20Progress-ff6b6b?style=for-the-badge&labelColor=0d1117" alt="In Progress"/>
-      <br/><br/>
-      <strong>Something is brewing...</strong><br/>
-      <sub>New project in active development. Details dropping soon — follow to stay updated.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Status-Building-00d9ff?style=flat-square&labelColor=0d1117"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/ETA-2025-caf0f8?style=flat-square&labelColor=0d1117"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## ⌨️ Weekly Coding Activity
+<details>
+<summary><strong>Weekly coding activity</strong></summary>
 
 <!--START_SECTION:waka-->
 
@@ -140,75 +100,23 @@ JavaScript     1 hr 9 mins           █▓░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-> ⏱️ Tracked automatically via [WakaTime](https://wakatime.com) — updates every 24 h.
+Activity recorded by [WakaTime](https://wakatime.com). [View scheduled updates](https://github.com/PresiDeWitt/PresiDeWitt/actions/workflows/waka-readme.yml).
 
-## 📊 GitHub Stats
+</details>
 
-<div align="center">
+<details>
+<summary><strong>GitHub contribution streak</strong></summary>
 
-<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=PresiDeWitt&theme=tokyonight&no-frame=true&margin-w=6&column=7"/>
+![GitHub contribution streak for PresiDeWitt](https://streak-stats.demolab.com?user=PresiDeWitt&theme=tokyonight&hide_border=true&background=0D1117&stroke=00b4d8&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00b4d8&dates=888888)
 
-</div>
+[View my GitHub activity](https://github.com/PresiDeWitt)
 
-<div align="center">
+</details>
 
-<img alt="GitHub Stats" height="175em" src="https://github-readme-stats-presidewitts-projects.vercel.app/api?username=PresiDeWitt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00b4d8&text_color=caf0f8&cache_seconds=21600"/>
-&nbsp;
-<img alt="Top Languages" height="175em" src="https://github-readme-stats-presidewitts-projects.vercel.app/api/top-langs/?username=PresiDeWitt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=caf0f8&cache_seconds=21600"/>
+## Beyond code
 
-</div>
+Outside development, I'm interested in crypto and stock markets, fitness, and continuous learning.
 
-<div align="center">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PresiDeWitt/PresiDeWitt/main/dist/github-snake-dark.svg" />
-</div>
+## Get in touch
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=PresiDeWitt&theme=tokyonight&hide_border=true&background=0D1117&stroke=00b4d8&ring=00d9ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00b4d8&dates=888888)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=PresiDeWitt&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00b4d8&point=caf0f8&area=true&area_color=001d3d"/>
-
-</div>
-
----
-
-## 💹 Beyond Code
-
-<div align="center">
-
-| 📈 Investor | 🏋️ Discipline | 🧠 Student |
-| :---: | :---: | :---: |
-| Crypto & Stock Market | Gym is a lifestyle | DAW + DAM |
-| Long-term strategic vision | Physical & mental growth | Always leveling up |
-
-</div>
-
----
-
-## 📬 Contact
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-PresiDeWitt-00d9ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/PresiDeWitt)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alejandro%20Chac%C3%B3n-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/alejandro-chac%C3%B3n-ortega-52750931b/)
-&nbsp;
-[![Website](https://img.shields.io/badge/Website-stocksync.es-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://stocksync.es)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-alexchaconortega@gmail.com-caf0f8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:alexchaconortega@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,60:001d3d,100:0d1117&height=130&section=footer" width="100%"/>
-
-*Crafted with precision by **Alejandro** — Full-Stack Developer & Ethical Hacker.*
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/alejandro-chac%C3%B3n-ortega-52750931b/) · [alexchaconortega@gmail.com](mailto:alexchaconortega@gmail.com)
