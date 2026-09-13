@@ -91,11 +91,11 @@ My security interests complement my development work: understanding vulnerabilit
 <!--START_SECTION:waka-->
 
 ```txt
-C++            6 hrs 57 mins         ███████▓░░░░░░░░░░░░░░░░░   31.16 %
-Python         6 hrs 42 mins         ███████▓░░░░░░░░░░░░░░░░░   30.00 %
-Other          1 hr 53 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-Markdown       1 hr 51 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
-Batchfile      1 hr 38 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Python            6 hrs 25 mins         ████████░░░░░░░░░░░░░░░░░   31.45 %
+C++               3 hrs 23 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
+Markdown          3 hrs 6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %
+Other             1 hr 55 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+Batchfile         1 hr 21 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
 ```
 
 <!--END_SECTION:waka-->
