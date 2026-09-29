@@ -91,11 +91,11 @@ My security interests complement my development work: understanding vulnerabilit
 <!--START_SECTION:waka-->
 
 ```txt
-C            1 hr 35 mins          ███████████░░░░░░░░░░░░░░   44.55 %
-CMake        33 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
-C++          23 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-AGS Script   14 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-Other        12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+C            38 mins               ████████░░░░░░░░░░░░░░░░░   31.65 %
+CMake        33 mins               ███████░░░░░░░░░░░░░░░░░░   27.97 %
+C++          23 mins               █████░░░░░░░░░░░░░░░░░░░░   19.35 %
+Markdown     11 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+PowerShell   8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
 ```
 
 <!--END_SECTION:waka-->
