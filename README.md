@@ -91,11 +91,7 @@ My security interests complement my development work: understanding vulnerabilit
 <!--START_SECTION:waka-->
 
 ```txt
-C            38 mins               ████████░░░░░░░░░░░░░░░░░   32.33 %
-CMake        33 mins               ███████░░░░░░░░░░░░░░░░░░   28.56 %
-C++          23 mins               █████░░░░░░░░░░░░░░░░░░░░   19.76 %
-Markdown     11 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
-PowerShell   8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+Other   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
